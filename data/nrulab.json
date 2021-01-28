@@ -1,0 +1,9 @@
+[
+ {
+  "eventType":"NRULab",
+  "labnumber":1,
+  "initial":"ご自身のイニシャルに書き換えてください", 
+  "comment":"任意の文字列を入れてください(日本語可) " 
+ }
+]
+
